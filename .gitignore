@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.*
+
+# Builds
+.next/
+/out/
+/build
+/dist
+
+# Environment Variables
+.env*
+
+# Logs and Cache
+*.log
+*.cache
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Uploads and temporary files
+uploads/
+temp/
